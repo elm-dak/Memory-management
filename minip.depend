@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654877565 source:c:\users\lenovo\downloads\emsi s4\systeme exploitation\minip\main.c
+	<stdio.h>
+	<stdlib.h>
+
